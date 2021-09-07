@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MAEE,eAAgB","file":"main.19c80188.chunk.css","sourcesContent":["ul,\nli {\n  list-style: none;\n}\n"]}
